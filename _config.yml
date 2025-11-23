@@ -1,4 +1,4 @@
-title                     : "tastebud.studio the food & flavor adventures blog!"
+title                     : "Joel's tastebud.studio the food & flavor adventures blog!"
 subtitle                  : "where Joel records the food & flavor adventures he has with his taste buddies."
 masthead_title            : "Tastebud Studio"
 description               : &description "tastebud.studio is the blog where Joel records the food & flavor adventures he has with his taste buddies." 
@@ -29,6 +29,8 @@ author:
       icon: "fab fa-fw fa-google"
       url: "https://www.google.com/maps/contrib/113858036723537048672"
 
+permalink: /:category/:title/
+timezone: America/Chicago
 
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
