@@ -1,17 +1,20 @@
 ---
 title: "Zymarium Meadery Orlando - Vampire Bar October 2024 Visit"
 date: "2024-10-17"
+author: "Joel Taylor"
+copyright: "2024 Joel Taylor"
+tags: Meadery Orlando Travel Reviews Wine Halloween Honey
 ---
 
 While on a trip to Orlando with a friend who enjoys wine. I serendipitously searched my map app for “wineries near me”. An interesting meadery called, [Zymarium](https://www.zymarium.com) popped up and looked promising. Yelp showed a 5.0 rating and the [Zymarium](https://www.zymarium.com) website included a list of awards they had won before going pro. For example, winning in the Mazer cup competition multiple times.
 
-It was a 30 minute drive from the Disney Springs mall, near where we were staying. Our plan was to try a few samples, then get dinner. 
+It was a 30 minute drive from the Disney Springs mall, near where we were staying. Our plan was to try a few samples, then get dinner.
 
 Upon getting dropped off, it looked like the meadery was closed. The dark tinted windows didn’t show any light inside. When trying the door we discovered it was open. It turned out that they had decorated for halloween and all of the lights were low and red. There were skeletons, black spider webs, and dark red fruited mead called ”Blood of the Elder Gods” in IV blood bags.
 
-Wow we ended up at a vampire bar!
+**Wow we ended up at a vampire bar!**
 
-<<add image>>
+![Inside Zymarium Meadery, decorated for Halloween with red lighting and spooky decor](./assets/img/Zymarium-Orlando-Oct-2024.png)
 
 Since it was my friend’s first time drinking mead, we decided to start with the flight from the menu, “Every Mead is Unique”. This offered a good overview of mead from standard mead, hydromel (mead under 7% ABV), fruited mead, and from dry to sweet.
 
@@ -25,21 +28,24 @@ I tried two flights at the meadery and took another 5 items home to do a flight 
 
 Summary of the flights I had in the tap room and the items I brought home.
 
-Flight 1:
+**Flight 1:**
+
 1. Ostara’s Desire: a light bodied dry white wine like mead with subtle apricot and peach. Dry finish and refreshingly clean.
-2. Figures of Oblivion (v2): a light body, hydromel, that had been dry hopped. The honey character was muted and I could taste strong citrus hops. 
+2. Figures of Oblivion (v2): a light body, hydromel, that had been dry hopped. The honey character was muted and I could taste strong citrus hops.
 3. Florida Lychee: a light-medium body and strongly fruited. Hazy, and looked pink in the red lights. Strong lychee fruit aroma with moderate supporting notes of flowers.
 4. Holly Blossom: Medium body with strong honey aroma, had a subtle “white wine like” funky aroma. It finished semi-sweet with a light grapefruit peel bitterness that balanced the sweetness very well.
 5. Endless Raspberry, Tupelo Reserve: This was heavily fruited with raspberry and had a rich jammy aroma and flavor. Light earthy notes from the raspberry.  
 
-Flight 2:
-1. Pineapple Habanero: a full bodied sweet mead with strong pineapple and fruity notes. The sweetness was balanced by a light spicy hot pepper finish. 
-2. Endless Dark Ritual: a full bodied sweet mead with strong fruit notes including raspberry, blackberry, and jammy notes. There was a nice acid in this mead that balanced the sweetness and made it very drinkable. 
+**Flight 2:**
+
+1. Pineapple Habanero: a full bodied sweet mead with strong pineapple and fruity notes. The sweetness was balanced by a light spicy hot pepper finish.
+2. Endless Dark Ritual: a full bodied sweet mead with strong fruit notes including raspberry, blackberry, and jammy notes. There was a nice acid in this mead that balanced the sweetness and made it very drinkable.
 3. Soliloquy of Nectar, Lehua: Strong tropical fruit notes especially papaya. Strong sweetness.
-4. Brood Coffee: This had clean coffee notes from a light roast coffee, with strong sweet honey character. 
+4. Brood Coffee: This had clean coffee notes from a light roast coffee, with strong sweet honey character.
 5. Amburana Groves: a barrel aged mead with strong honey and barrel notes. There was a touch of salty notes. This was a nice semi-sweet mead that was very drinkable.
 
-Take home flight:
+**Take home flight:**
+
 1. Blood of the Elder Gods: packaged in a fake IV Blood bag, they recommended I drink this quickly as it is packaged differently and should be refrigerated, but I had to take it out and pack in my luggage for the flight home. I’ll drink this at my local home brew club.
 2. Endless Vanilla
 3. Endless Dark Ritual
