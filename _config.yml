@@ -29,7 +29,7 @@ author:
       icon: "fab fa-fw fa-google"
       url: "https://www.google.com/maps/contrib/113858036723537048672"
 
-permalink: /:category/:title/
+# permalink: /:categories/:title/
 timezone: America/Chicago
 
 
