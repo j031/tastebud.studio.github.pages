@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Taste Bud Studio, the food & flavor adventure blog
 ---
 
