@@ -1,5 +1,5 @@
 ---
-title: "2024-07-13 Bunna Coffee Service, Ethiopian Coffee West Allis"
+title: "Bunna Coffee Service, Ethiopian Coffee West Allis"
 date: "2024-7-13"
 tags: Coffee Ethiopian West-Allis Milwaukee 
 layout: posts

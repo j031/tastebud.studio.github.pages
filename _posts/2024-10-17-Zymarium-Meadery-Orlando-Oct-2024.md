@@ -1,5 +1,5 @@
 ---
-title: "Zymarium Meadery Orlando - Vampire Bar October 2024 Visit"
+title: "Zymarium Meadery Orlando - October Vampire Bar THemed Visit"
 date: "2024-10-17"
 tags: Meadery Orlando Travel Reviews Wine Halloween Honey
 layout: posts
