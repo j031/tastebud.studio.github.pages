@@ -4,6 +4,7 @@ date: "2024-10-17"
 author: "Joel Taylor"
 copyright: "2024 Joel Taylor"
 tags: Meadery Orlando Travel Reviews Wine Halloween Honey
+layout: posts
 ---
 
 While on a trip to Orlando with a friend who enjoys wine. I serendipitously searched my map app for “wineries near me”. An interesting meadery called, [Zymarium](https://www.zymarium.com) popped up and looked promising. Yelp showed a 5.0 rating and the [Zymarium](https://www.zymarium.com) website included a list of awards they had won before going pro. For example, winning in the Mazer cup competition multiple times.
