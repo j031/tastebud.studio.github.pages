@@ -3,7 +3,7 @@ subtitle                  : "where Joel records the food & flavor adventures he 
 masthead_title            : "Tastebud Studio"
 description               : &description "tastebud.studio is the blog where Joel records the food & flavor adventures he has with his taste buddies." 
 name                      : &name "Joel Taylor" # &name is a YAML anchor which can be *referenced later
-logo                      : /docs/assets/img/tastebud-studio-logo-75x75.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                      : /assets/img/tastebud-studio-logo-75x75.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 url                       : https://www.tastebud.studio # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                   : "/" # the subpath of your site, e.g. "/blog"
 words_per_minute          : 200
@@ -47,7 +47,7 @@ include:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/docs/assets/img/joel-taylor-square.png"
+  avatar           : "/assets/img/joel-taylor-square.png"
   bio              : "Recording the food & flavor adventures he has with his taste buddies."
   location         : "Milwaukee, WI"
   links:

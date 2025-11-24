@@ -14,7 +14,7 @@ Upon getting dropped off, it looked like the meadery was closed. The dark tinted
 
 **Wow we ended up at a vampire bar!**
 
-![Inside Zymarium Meadery, decorated for Halloween with red lighting and spooky decor](/docs/assets/img/Zymarium-Orlando-Oct-2024.png)
+![Inside Zymarium Meadery, decorated for Halloween with red lighting and spooky decor](/assets/img/Zymarium-Orlando-Oct-2024.png)
 
 Since it was my friend’s first time drinking mead, we decided to start with the flight from the menu, “Every Mead is Unique”. This offered a good overview of mead from standard mead, hydromel (mead under 7% ABV), fruited mead, and from dry to sweet.
 
