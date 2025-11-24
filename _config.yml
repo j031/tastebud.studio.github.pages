@@ -12,6 +12,11 @@ enable_copy_code_button   : false
 footer:
   since: "2023"
 
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
