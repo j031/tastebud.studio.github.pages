@@ -24,8 +24,8 @@ author:
   bio              : "Recording the food & flavor adventures he has with his taste buddies."
   location         : "Milwaukee, WI"
   links:
-    - label: "Untapped Check-ins"
-      icon: "fas fa-fw fa-untappd"
+    - label: "Untappd Check-ins"
+      icon: "fab fa-fw fa-untappd"
       url: "https://untappd.com/user/J031"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
