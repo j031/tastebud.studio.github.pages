@@ -9,6 +9,10 @@ baseurl                   : "/" # the subpath of your site, e.g. "/blog"
 words_per_minute          : 200
 enable_copy_code_button   : false
 
+# search
+lunr:
+  search_within_pages: true
+
 footer:
   since: "2023"
 
@@ -24,6 +28,8 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      toc: true
   # _pages
   - scope:
       path: ""
