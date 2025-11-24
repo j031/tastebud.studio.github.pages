@@ -1,8 +1,9 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: ""
+excerpt: "A little bit about Tastebud Studio..."
 toc: true
+layout: single
 ---
 
 ## Our Mission
