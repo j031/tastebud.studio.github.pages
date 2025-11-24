@@ -6,8 +6,8 @@ layout: posts
 excerpt: "A visit to West Allis' first Ethiopian coffee shop, featuring traditional bunna coffee with spice or butter, and unique nitro cold brews."
 ---
 
-> [!Note]
-> As of November 2025, saddly, it appears that this business is no longer open.
+> [!Note📓]
+> As of November 2025, it appears that sadly this business is no longer open.
 
 On S. 77th & Greenfield I found what I believe to be West Allis, WI’s first Ethiopian coffee shop, [Google Maps Link](https://g.co/kgs/LfX2F4X). Inside its a comfortable room with a few tables, and comfy chairs scattered pleasantly about. Upon entering I was greeted by the friendly proprietor, a woman with a very calming and comfortable demeanor that made me feel like I was being invited into her home.
 
