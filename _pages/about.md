@@ -2,8 +2,8 @@
 permalink: /about/
 title: "About"
 excerpt: "A little bit about Tastebud Studio..."
-toc: true
 layout: single
+date: 2025-11-23
 ---
 
 ## Our Mission
