@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
-
 If you’d like to get in touch, please use the form below.  
 For media and consulting inquiries, I typically respond within a few days.
 
