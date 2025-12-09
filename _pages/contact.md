@@ -1,5 +1,5 @@
 ---
-layout: page        # or 'default' or whatever your theme uses
+layout: single    # or 'default' or whatever your theme uses
 title: Contact
 permalink: /contact/
 ---
