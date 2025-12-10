@@ -103,7 +103,7 @@ These sites are hosted on **[GitHub Pages](https://pages.github.com/)**.
 
 This site uses **[Formspree](https://formspree.io)** to handle contact form submissions.
 
-- Formspree is a **privacy-focused**, **cookie-free** form handling service.
+- Formspree is a form handling service.
 - If you wish to contact me, you can use the contact form on this site. It will reduce the amount of spam I receive.
 - Formspree will store your information that you share on the form. 
 
@@ -147,7 +147,7 @@ I may update these Terms of Use and this Privacy Notice from time to time.
 
 If you have questions about these Terms or this Privacy Notice, you can contact me at:
 
-- **contact:** [https://www.tastebud.studio/contact](https://www.tastebud.studio/contact) 
+- **contact:** [https://www.tastebud.studio/contact/](https://www.tastebud.studio/contact/) 
 - **Website:** [https://www.tastebud.studio](https://www.tastebud.studio)
 
 _I am not a lawyer. This page is intended to be transparent and user-friendly, but it is not legal advice._
