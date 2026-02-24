@@ -1,0 +1,27 @@
+# Agent Workspace Configuration for tastebud.studio
+
+site:
+  name: "tastebud.studio"
+  url: "https://www.tastebud.studio"
+  author: "Joel Taylor"
+  timezone: "America/Chicago"
+
+blog:
+  posts_dir: "docs/_posts"
+  drafts_dir: "docs/_drafts"
+  categories:
+    - "Food & Flavor"
+    - "Travel"
+    - "Recipes"
+    - "Product Management"
+    - "Technology"
+  default_tags:
+    - "food"
+    - "flavor"
+    - "adventure"
+
+pages:
+  pages_dir: "docs/_pages"
+
+git:
+  main_branch: "main"
