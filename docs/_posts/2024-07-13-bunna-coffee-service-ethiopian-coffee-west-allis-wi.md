@@ -2,8 +2,10 @@
 title: "Bunna Coffee Service, Ethiopian Coffee West Allis"
 date: "2024-7-13"
 tags: Coffee Ethiopian West-Allis Milwaukee 
-layout: posts
 excerpt: "A visit to West Allis' first Ethiopian coffee shop, featuring traditional bunna coffee with spice or butter, and unique nitro cold brews."
+toc: true
+toc_label: "Contents"
+toc_icon: "list"
 ---
 
 > [!Note📓]

@@ -2,8 +2,10 @@
 title: "Zymarium Meadery Orlando - October Vampire Bar Themed Visit"
 date: "2024-10-17"
 tags: Meadery Orlando Travel Reviews Wine Halloween Honey
-layout: posts
 excerpt: "A visit to Zymarium Meadery in Orlando during their Halloween-themed 'vampire bar' event, featuring award-winning meads and spooky decor."
+toc: true
+toc_label: "Contents"
+toc_icon: "list"
 ---
 
 While on a trip to Orlando with a friend who enjoys wine. I serendipitously searched my map app for “wineries near me”. An interesting meadery called, [Zymarium](https://www.zymarium.com) popped up and looked promising. Yelp showed a 5.0 rating and the [Zymarium](https://www.zymarium.com) website included a list of awards they had won before going pro. For example, winning in the Mazer cup competition multiple times.
