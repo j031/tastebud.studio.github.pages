@@ -3,8 +3,10 @@ title: "Nespresso Peppermint Pinwheel Pod Review"
 permalink: /nespresso-peppermint-pinwheel/
 date: 2025-12-06
 tags: Coffee
-layout: posts
 excerpt: "The smell is amazing. Dark chocolate and sweet peppermint, like a high-end fresh mint chocolate aroma."
+toc: true
+toc_label: "Contents"
+toc_icon: "list"
 ---
 
 Love the alliteration in the name of this one. My family got this in our last purchase of pods. 

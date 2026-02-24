@@ -13,7 +13,6 @@ excerpt: "Exploring why FLVR stands out in the crowded NA beer market with robus
 toc: true
 toc_label: "Contents"
 toc_icon: "list"
-layout: posts
 ---
 
 FLVR Non-alcoholic beers are, in my opinion, some of the best non-alcoholic beers on the market right now. What really sets these apart are the robust flavors and a pleasant mouthfeel and body. 

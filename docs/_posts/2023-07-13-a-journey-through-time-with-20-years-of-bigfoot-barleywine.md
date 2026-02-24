@@ -2,8 +2,10 @@
 title: "A Journey Through Time with 20 Years of Bigfoot Barleywine"
 date: "2023-07-13"
 tags: Barleywine Bigfoot Beer Vertical TravelReviews 
-layout: posts
 excerpt: "Have you ever wondered what it's like to taste the history of a beer in one sitting? We saved over 20 years of Bigfoot Barleywine to try."
+toc: true
+toc_label: "Contents"
+toc_icon: "list"
 ---
 
 Have you ever wondered what it's like to taste the history of a beer in one sitting? We saved over 20 years of Bigfoot Barleywine to try. 
