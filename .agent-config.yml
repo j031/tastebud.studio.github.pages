@@ -25,3 +25,7 @@ pages:
 
 git:
   main_branch: "main"
+
+github:
+  owner: "j031"
+  repo: "tastebud.studio.github.pages"
