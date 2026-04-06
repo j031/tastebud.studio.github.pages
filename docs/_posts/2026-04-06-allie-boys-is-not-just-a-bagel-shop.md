@@ -24,7 +24,7 @@ It’s the specials that are approachable yet sophisticated. Always allowing som
 
 These are not your mom’s deviled eggs. Respectfully.  
 
-![Salmon deviled Eggs](/assets/img/deviled-eggs-2.jpg)  
+![Salmon deviled Eggs](/assets/img/deviled-eggs-2.jpeg)  
 
 The yolk filling is silky and creamy and properly emulsified, not dense, not grainy. There's a warmth underneath from **five spice** and a subtle **sesame** note that grounds it. It's restrained. Intentional.  
 
@@ -34,7 +34,7 @@ On top: **smoked salmon**. It adds a layer of oily richness and a whisper of smo
 
 ### Tempura Sweet Potato & Squash  
 
-![Tempura sweet potato and squash](/assets/img/tempura-sweet-potato-squash.jpg)  
+![Tempura sweet potato and squash](/assets/img/tempura-sweet-potato-squash.jpeg)  
 
 Thin-cut and fried with a crispy, clean tempura batter. The kind that doesn't overwhelm what's underneath. The sweet potato and squash stayed crisp, which is harder than it sounds. You get the actual vegetable flavor coming through, not just batter. The batter is so light and airy that it is wonderful.  
 
@@ -44,8 +44,7 @@ Thin-cut and fried with a crispy, clean tempura batter. The kind that doesn't ov
 
 ### Buffalo Chicken Bialy  
 
-![Buffalo chicken bialy](/assets/img/buffalo-chicken-bialy.jpg)  
-
+![Buffalo chicken bialy](/assets/img/buffalo-chicken-bialy.jpeg)
 A bialy is not a bagel it has no hole, softer texture, baked rather than boiled. It's an underrated item and Allie Boy's uses it well.  
 
 The filling had **creamy Alfredo-like notes** with rich, smooth, coating. The chicken was well-seasoned with real flavor (not just protein filler). **Light celery** gave it that classic buffalo wing reference without being heavy-handed. The buffalo spice was mild and present but not aggressive. It's comfort food made with actual skill.  
