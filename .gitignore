@@ -35,3 +35,20 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Jekyll and build output #
+###########################
+_site/
+docs/_site/
+.jekyll-cache/
+docs/.jekyll-cache/
+.jekyll-metadata
+docs/.jekyll-metadata
+.sass-cache/
+docs/.sass-cache/
+
+# Bundler #
+###########
+.bundle/
+vendor/bundle/
+

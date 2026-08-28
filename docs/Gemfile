@@ -4,6 +4,11 @@ gem "jekyll", "~> 4.3.2"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
 gem "webrick" # Required for Ruby 3.x+
+gem "csv" # Required for Ruby 3.4+
+gem "base64" # Required for Ruby 3.4+
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+
 
 group :jekyll_plugins do
   gem "jekyll-feed"
